@@ -1,7 +1,7 @@
 
 ### Personal Information
 
-- **Name:  Haleigh Valentine**
+- **Name: Haleigh Valentine**
 - **Date: 04 March 2024**
 - **Current Role/Position: Software Development Student**
 - **Field of Interest: Front-end web development, with a particular interest in Javascript and React.**
@@ -18,6 +18,7 @@
     - Enjoy problem solving activities.
     
     Identify skills you need to develop or improve:
+    - Proficiency in JavaScript.
     - Proficiency in React.
     - Proficiency in Angular.
 
@@ -47,13 +48,13 @@
     - Automotive
 
     Roles:
-    - Frontend web developer
-    - Backend web developer
+    - front-end web developer
+    - Back-end web developer
     - FullStack web developer
       
     Note any particular areas that piqued your interest:
    
-    - I would like to focus on front-end web development now. However backend web development does sound interesting.
+    - I would like to focus on front-end web development now. However, back-end web development does sound interesting.
     - Entertainment services
     - Finance
     - Marketing
@@ -62,12 +63,12 @@
 
     Reflect on how these industries/roles align with your skills, interests, and values:
    
-    - Critical thinking and analytical skills are important in any frontend web development role as it involves daily problem solving.
+    - Critical thinking and analytical skills are important in any front-end web development role as it involves daily problem solving.
     - My background in accounting may be useful in FinTech as I am already familiar with the financial terminology and user experience of some software used.
       
     Identify any gaps or areas for further exploration:
    
-    - I will need to explore some the technologies and frameworks required by some of the job posts in the industries I'm interested in. Typescript, GraphQL, LESS, SASS, Angular and Vue.js are a few technologies I am not familiar with. I might need to learn some (or all) of these technologies to increase my skill set and marketability.
+    - I will need to explore some the technologies and frameworks required by some of the job listings of the industries I'm interested in. Typescript, GraphQL, LESS, SASS, Angular and Vue.js are a few technologies I am not yet familiar with. I might need to learn some (or all) of these technologies to increase my skill set and marketability.
 
 ### Part 3: SMART Career Goals
 
@@ -85,7 +86,7 @@
     - Complete the CodeSpace Course with distinction: This would motivate me to thoroughly learn the technologies taught in the course and might make me more marketable.
     - Dedicate at least 3 hours each weekend to work on a portfolio project: This is a goal for the next 6 months. I understand the importance of being able to showcase my skills through projects when trying to break into the software development industry without a computer science degree. This is why I want to prioritise this.
     - Dedicate at least 2 hours on the weekend to solving problems on LeetCode: I feel that solving problems on LeetCode may help  me with technical interviews and improve my problem solving ability.
-    - Get employed as a front-end web developer: This is my ultimate goal and every other goal essentially ties into this one. I do feel that this is achievable within the next year.
+    - Get employed as a front-end web developer: This is my ultimate goal and every other goal essentially ties into this one. I need to find employment as a devloper in order to earn a living. I do feel that this is achievable within the next year.
 
 1. **Long-term Goals** (3-5 years and beyond):
 
