@@ -87,13 +87,29 @@ By completing this reflection, you will gain a clearer understanding of your car
 ### Part 3: SMART Career Goals
 
 1. **Short-term Goals** (Next 1-2 years):
+
+    List your specific, measurable, achievable, relevant, and time-bound goals:
+   
+    - Complete the CodeSpace Course with distinction.
+    - Dedicate at least 3 hours each weekend to work on a portfolio project.
+    - Dedicate at least 2 hours on the weekend to solving problems on LeetCode.
+    - Get employed as a front-end web developer.
+      
+    Explain the rationale behind each goal.
+    - Complete the CodeSpace Course with distinction: This would motivate me to thoroughly learn the technologies taught in the course and might make me more marketable.
+    - Dedicate at least 3 hours each weekend to work on a portfolio project: This is a goal for the next 6 months. I understand the importance of being able to showcase my skills through projects when trying to break into the software development industry without a computer science degree. This is why I want to prioritise this.
+    - Dedicate at least 2 hours on the weekend to solving problems on LeetCode: I feel that solving problems on LeetCode may help  me with technical interviews and improve my problem solving ability.
+    - Get employed as a front-end web developer: This is my ultimate goal and every other goal essentially ties into this one. I do feel that this is achievable within the next year.
+
+1. **Long-term Goals** (3-5 years and beyond):
+
+    Outline your long-term career aspirations.
+   
+    - My long term career aspiration is to work as a senior web developer.
+
+     Describe how these align with your interests and skills.
     
-    - List your specific, measurable, achievable, relevant, and time-bound goals.
-    - Explain the rationale behind each goal.
-2. **Long-term Goals** (3-5 years and beyond):
-    
-    - Outline your long-term career aspirations.
-    - Describe how these align with your interests and skills.
+    - This aligns with my logical reasoning skills and my interest in various industries requiring senior front-end developers.
 
 ### Part 4: Action Plan
 
