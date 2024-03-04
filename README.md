@@ -16,32 +16,73 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 ### Personal Information
 
-- **Name:**
-- **Date:**
-- **Current Role/Position:**
-- **Field of Interest:**
+- **Name:  Haleigh Valentine**
+- **Date: 04 March 2024**
+- **Current Role/Position: Software Development Student**
+- **Field of Interest: Front-end web development, with a particular interest in Javascript and React.**
 
 ### Part 1: Self-Assessment Reflection
 
-1. **Skills Analysis**:
+1. **Skills Analysis**:<br>
+
+    List your current skills and area of expertise:
     
-    - List your current skills and areas of expertise.
-    - Identify skills you need to develop or improve.
-2. **Interests and Values**:
+    - Strong analytical ability.
+    - Logical reasoning skills.
+    - Background in Accounting.
+    - Enjoy problem solving activities.
     
-    - Describe your key interests related to your career.
-    - What values are important to you in a work environment?
+    Identify skills you need to develop or improve:
+    - Proficiency in React.
+    - Proficiency in Angular.
+
+3. **Interests and Values**:<br>
+
+    Describe your key interests related to your career.
+   
+    - I currently have a strong interest in front-end web development and aspire to be a front-end web developer.
+
+    What values are important to you in a work environment?
+   
+    - Opportunities for growth.
+    - Work-life balance.
+    - Positivity.
 
 ### Part 2: Career Exploration Insights
 
-1. **Industries and Roles Explored**:
+1. **Industries and Roles Explored**:<br>
+
+    List the industries or roles you have researched.<br>
     
-    - List the industries or roles you have researched.
-    - Note any particular areas that piqued your interest.
-2. **Alignment with Personal Profile**:
-    
-    - Reflect on how these industries/roles align with your skills, interests, and values.
-    - Identify any gaps or areas for further exploration.
+    Industries:
+    - Entertainment Services
+    - Finance
+    - Marketing
+    - ECommerce
+    - Automotive
+
+    Roles:
+    - Frontend web developer
+    - Backend web developer
+    - FullStack web developer
+      
+    Note any particular areas that piqued your interest:
+   
+    - I would like to focus on front-end web development now. However backend web development does sound interesting.
+    - Entertainment services
+    - Finance
+    - Marketing
+  
+3. **Alignment with Personal Profile**:<br>
+
+    Reflect on how these industries/roles align with your skills, interests, and values:
+   
+    - Critical thinking and analytical skills are important in any frontend web development role as it involves daily problem solving.
+    - My background in accounting may be useful in FinTech as I am already familiar with the financial terminology and user experience of some software used.
+      
+    Identify any gaps or areas for further exploration:
+   
+    - I will need to explore some the technologies and frameworks required by some of the job posts in the industries I'm interested in. Typescript, GraphQL, LESS, SASS, Angular and Vue.js are a few technologies I am not familiar with. I might need to learn some (or all) of these technologies to increase my skill set and marketability.
 
 ### Part 3: SMART Career Goals
 
