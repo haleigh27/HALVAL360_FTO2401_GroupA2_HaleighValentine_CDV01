@@ -95,7 +95,8 @@ By completing this reflection, you will gain a clearer understanding of your car
     - Dedicate at least 2 hours on the weekend to solving problems on LeetCode.
     - Get employed as a front-end web developer.
       
-    Explain the rationale behind each goal.
+    Explain the rationale behind each goal:
+   
     - Complete the CodeSpace Course with distinction: This would motivate me to thoroughly learn the technologies taught in the course and might make me more marketable.
     - Dedicate at least 3 hours each weekend to work on a portfolio project: This is a goal for the next 6 months. I understand the importance of being able to showcase my skills through projects when trying to break into the software development industry without a computer science degree. This is why I want to prioritise this.
     - Dedicate at least 2 hours on the weekend to solving problems on LeetCode: I feel that solving problems on LeetCode may help  me with technical interviews and improve my problem solving ability.
@@ -114,31 +115,46 @@ By completing this reflection, you will gain a clearer understanding of your car
 ### Part 4: Action Plan
 
 1. **Steps to Achieve Short-term Goals**:
+
+    Detail specific actions or steps needed to achieve each short-term goal:
+   
+    - Complete the CodeSpace Course with distinction: Actively engage in the learning material and apply myself to do well in assignments and complete them in a timely manner.
+    - Dedicate at least 3 hours each weekend to work on a portfolio project: Find a portfolio project that interests me. I will have to do some research on what exactly I want to code. I will then identify if I have enough knowledge to built the portfolio project  and systematically work on the development.
+    - Dedicate at least 2 hours on the weekend to solving problems on LeetCode: This goal already details a specific action. I will however start with some of the challenges with an 'easy' label and work my up to more difficult problems.
+    - Get employed as a front-end web developer: I will ensure I achieve the three goals mentioned above as it will help me achieve this goal. At the end of the CodeSpace course I will evaluate how proficient I am in the technologies covered during the course and whether I have enough knowledge and skill to get employed. If not, I will refine the knowledge further by completing courses on Coursera and Scrimba. I will also assess how necessary it is to become skilled in an additional framework or language after the course. If it is required I will do courses to learn the language or framework.
+       
+1. **Preparation for Long-term Goals**:
     
-    - Detail specific actions or steps needed to achieve each short-term goal.
-    - Include any resources or support required.
-2. **Preparation for Long-term Goals**:
-    
-    - Describe the preparations or groundwork necessary for your long-term aspirations.
-    - Consider additional skills, experiences, or qualifications needed.
+    Describe the preparations or groundwork necessary for your long-term aspirations:
+   
+    - In order to achieve my long term goal I will first need to achieve my short term goals as they are directly related.
+    - I will need to continuously improve my coding skills and expand my knowledge relating to programming languages and frameworks.
+    - I will need to keep developing my soft skills as wells.
+  
+    Consider additional skills, experiences, or qualifications needed.
+    - I still need to gain many skill to reach my long term goal, such as becoming proficient in React and likely TypeScript and Angular.
+    - I will also need the necessary experience as a junior developer.
 
 ### Part 5: Reflection on Challenges and Opportunities
 
 1. **Anticipated Challenges**:
     
-    - Identify potential obstacles or challenges in reaching your goals.
-    - Consider strategies to overcome these challenges.
-2. **Opportunities for Growth**:
+    Identify potential obstacles or challenges in reaching your goals:
+   
+    - Many software developers were laid off during the last few years. This means it may likely be very challenging to get a job in web development at this stage. Jobs are more scarce and there are now more applicants for each advertised position.
+    - Lack of experience may also make it difficult to get employment as most job posts I've seen (even for junior roles) require two to five years of experience.
+    - Lacking a skill or proficiency listed as a requirement on a job listing.
+      
+   Consider strategies to overcome these challenges.
+    - In order to place myself in the best position possible to be hired, I will have to ensure I have a captivating portfolio and I am sufficiently skilled in the languages and frameworks I learn.
+    - In order to overcome my lack of experience I will need to showcase my skills by doing projects for my portfolio. I also think it would still be beneficial to apply for junior roles that have a minimum experience requirement. I know of a few senarios where developers have applied, despite not having the experience listed, and still received an opportunity to interview for the job.
+    - If I see a skill on a job listing which I am not yet proficient in, I will have to assess how critical the skill is to the role and how difficult or time consuming it will be to familiarise myself with the skill set.
+      
+3. **Opportunities for Growth**:
     
-    - Highlight any opportunities you can leverage for career growth.
-    - Include networking, mentorship, or educational opportunities.
-
-### Submission
-
-- To complete this submission you will need to use this template and complete Parts 1 to 5.
-- Note this reflection Template is a guide to help prompt your reflections in each section.
-- You will fill in your reflections for each seciton under Parts 1 to 5.
-- Change the name of your forked CDV01_Career_Goals_Reflection_StudentNo_Classcode_Group_Name-Surname_CDV01 repository to reflect your Student Number, ClassCode, Group Name and Name.
-- You will then submit a link to your renamed CDV01 GitHub repo to the CDV01 Project Tab on the LMS.
+    Highlight any opportunities you can leverage for career growth:
+   
+    - I can make better use of community Fridays to develop my soft skills and engage with other students and coaches.
+    - I can take up extra courses on Scrimba or Coursera.
 
 
