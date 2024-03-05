@@ -68,7 +68,7 @@
       
     Identify any gaps or areas for further exploration:
    
-    - I will need to explore some the technologies and frameworks required by some of the job listings of the industries I'm interested in. Typescript, GraphQL, LESS, SASS, Angular and Vue.js are a few technologies I am not yet familiar with. I might need to learn some (or all) of these technologies to increase my skill set and marketability.
+    - I will need to explore some of the technologies and frameworks required by some of the job listings of the industries I'm interested in. Typescript, GraphQL, LESS, SASS, Angular and Vue.js are a few technologies I am not yet familiar with. I might need to learn some (or all) of these technologies to increase my skill set and marketability.
 
 ### Part 3: SMART Career Goals
 
